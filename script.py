@@ -13,7 +13,7 @@ IM_IDX = 1
 ROWS_AXIS = 0
 COLS_AXIS = 1
 polarMode = "spline"
-noiseMode = "s&p" # "gaussian", "s&p", "none"
+noiseMode = "none" # "gaussian", "s&p", "none"
 noiseIntensity = {'sigma' : 2, 'mean' : 0, 'whiteThreshold' : 0.01, 'blackThreshold' : 0.99}
 resultsComparation = False
 
